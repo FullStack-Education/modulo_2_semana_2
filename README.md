@@ -1,4 +1,4 @@
-# Semana 2 - Fullstack Edication
+# Semana 2 - Fullstack Education
 
 Módulo 2 | Revisão HTML e CSS | FlexBox | Bootstrap | Introdução Javascript
 
