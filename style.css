@@ -1,0 +1,16 @@
+/* seletor - H4*/
+/* color - propriedade
+purple - valor */
+h4{
+    color: purple;
+}
+
+.titulo-1{
+    background-color: rgb(222, 46, 151);
+}
+
+#titulo-2{
+    color: aliceblue;
+    background-color: rgb(166, 166, 228);
+    border: 1px solid greenyellow;
+}
