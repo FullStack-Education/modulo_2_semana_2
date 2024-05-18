@@ -14,13 +14,13 @@ body{
     background-color: #e2e8f0;
     border: 2px solid rebeccapurple;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 10px 20px;
     /* alinha a row */
     justify-content: space-between;
     /* alinha a column */
-    /* align-items: center; */
+    align-items: center;
 }
 
 .box{
